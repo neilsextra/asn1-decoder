@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>au.org.tso.decoder.asn1</groupId>
-  <artifactId>directory-tools</artifactId>
+  <artifactId>asn1-tools</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>directory-monitor</name>
@@ -39,11 +39,6 @@
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-params</artifactId>
       <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.novell</groupId>
-      <artifactId>ldap</artifactId>
-      <version>1.0</version>
     </dependency>
     <dependency>
       <groupId>org.bouncycastle</groupId>
