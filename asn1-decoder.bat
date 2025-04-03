@@ -1,0 +1,1 @@
+javaw -cp ./target/asn1-tools-1.0-SNAPSHOT.jar;./target/dependency/bcprov-jdk18on-1.79.jar  au.org.tso.decoder.asn1.Main
